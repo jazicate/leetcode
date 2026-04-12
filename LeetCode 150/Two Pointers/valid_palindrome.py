@@ -1,3 +1,4 @@
+# 125. Valid Palindrome - easy
 class Solution:
     def isPalindrome(self, s: str) -> bool: # O(n) time, O(1) space
         '''

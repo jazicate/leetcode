@@ -1,3 +1,4 @@
+# 242. Valid Anagram - easy
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool: # O(s + t) time, O(1) space
         '''

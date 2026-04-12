@@ -1,3 +1,4 @@
+# 205. Isomorphic Strings - easy
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool: # O(n) time, O(n) space
         '''
